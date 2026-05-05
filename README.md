@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Павел 👋</h1>
+<h1 align="center">Привет, я Павел 👋👋👋</h1>
 <p align="center">Студент ИСиП | Junior QA Automation Engineer (Java)</p>
 
 ---
